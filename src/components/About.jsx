@@ -17,11 +17,7 @@ const About = () => {
             <p>Hi. I'm Daniel Shi, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            <p>I am passionate about building excellent software that improves
-            the lives of those around me. I specialize in creating software
-            for clients ranging from individuals and small-businesses all the
-            way to large enterprise corporations. What would you do if you had
-            a software expert available at your fingertips?</p>  
+            <p>I'm a college student studying computer science and data science. With a background in peer-reviewed research, statistical analysis, and computational problem-solving, I am deeply passionate about utilizing these skills in innovative ways. My ambition is to apply the power of machine learning and neural networks to marine science and ocean conservation. By integrating cutting-edge technology with environmental stewardship, I aim to contribute to the sustainable management and protection of our oceans.</p>  
           </div>
         </div>
     </div>

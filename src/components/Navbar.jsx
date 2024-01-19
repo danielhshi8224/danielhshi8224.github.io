@@ -103,25 +103,30 @@ const Navbar = () => {
         <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
             <ul>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-700'>
-                    <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                    <a className='flex justify-between items-center w-full text-gray-300' href="https://www.linkedin.com/in/daniel-shi-462986277
+
+" target="_blank"
+rel="noopener noreferrer">
                         Linkedin<FaLinkedin  size={30}/>
 
                     </a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
-                    <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                    <a className='flex justify-between items-center w-full text-gray-300' href="https://github.com/danielhshi8224" target='_blank' rel="noopener noreferrer" > 
                         Github<FaGithub  size={30}/>
 
                     </a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
-                    <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                    <a className='flex justify-between items-center w-full text-gray-300' href="mailto: dshi01@wm.edu" target="_blank"
+rel="noopener noreferrer" >
                         Email<HiOutlineMail  size={30}/>
 
                     </a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-                    <a className='flex justify-between items-center w-full text-gray-300' href="/">
+                    <a className='flex justify-between items-center w-full text-gray-300' href="https://1drv.ms/w/s!AnjekH1qTC7fgYxWx26hJURU1Sw4Ew?e=T6GR3Z" target="_blank"
+rel="noopener noreferrer">
                         Resume<BsFillPersonLinesFill  size={30}/>
 
                     </a>

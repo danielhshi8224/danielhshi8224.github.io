@@ -13,7 +13,7 @@ const Home = () => {
             <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
                 I'm a freshman at W&M.
             </h2>
-            <p className='py-4 max-w-[700px] text-[#8892b0]'>I'm currently taking coursework in computer science, mathematics, and data science, while working on personal projects in full-stack web development and machine learning. Outside of school, you'll probably find me at the gym or on a hike with friends.
+            <p className='py-4 max-w-[700px] text-[#8892b0]'>I'm currently taking coursework in computer science, mathematics, and data science, while working on personal projects in full-stack web development and machine learning.
 
             </p>
             <div>
