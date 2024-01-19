@@ -1,5 +1,4 @@
 import React from 'react'
-
 const About = () => {
   return (
     <div name='about' className='w-full h-screen bg-[#0a192f] text-gray-300'>
@@ -18,6 +17,7 @@ const About = () => {
           </div>
           <div>
             <p>I'm a college student studying computer science and data science. With a background in peer-reviewed research, statistical analysis, and computational problem-solving, I am deeply passionate about utilizing these skills in innovative ways. My ambition is to apply the power of machine learning and neural networks to marine science and ocean conservation. By integrating cutting-edge technology with environmental stewardship, I aim to contribute to the sustainable management and protection of our oceans.</p>  
+            
           </div>
         </div>
     </div>
