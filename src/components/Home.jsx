@@ -1,7 +1,7 @@
 import React from 'react'
 import {HiArrowNarrowRight} from 'react-icons/hi'
 import {Link} from 'react-scroll'
-import me from '../assets/_DSC3050.png'
+import me from 'src/assets/_DSC3050.png'
 const Home = () => {
   return (
     <div style={{backgroundImage: `url(${me})`  ,backgroundPosition: '42% 44%'}} name='home' className='w-full h-screen bg-[#0a192f]'>
