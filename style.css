@@ -26,27 +26,42 @@ h2 {
 }
 
 main {
-  max-width: 1400px; /* wider dashboard */
+  max-width: 1400px;
   margin: 0 auto;
   padding: 1rem 2rem;
 }
 
+/* Centers all plots */
+.plot-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Default plot style */
 .plot-frame {
   display: block;
-  width: 100%;
-  height: 90vh; /* <-- makes each plot take 90% of viewport height */
   border: none;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
-  margin-top: 1rem;
   border-radius: 10px;
+  background: white;
 }
 
-/* Slightly reduce margin between plots */
-section {
-  margin-bottom: 2rem;
+/* Larger visualizations like map and scatter */
+.large-plot {
+  width: 95%;
+  height: 85vh;
 }
 
-/* Footer styling */
+/* Smaller visualizations like donut and subplots */
+.small-plot {
+  width: 70%;
+  height: 65vh;
+}
+
+/* Footer */
 footer {
   text-align: center;
   font-size: 0.9rem;
